@@ -60,3 +60,6 @@ if len(categorical) > 0:
     plt.show()
 
 print("\nProject Completed Successfully!")
+
+output:
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/b2a3b060-1074-4099-a75b-4dbdce58927a" />
